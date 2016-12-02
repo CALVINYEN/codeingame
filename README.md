@@ -1,4 +1,4 @@
-# codeingame website training solution
+# codeingame website training's solution
 
 ## About codingame
 
